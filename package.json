@@ -1,0 +1,31 @@
+{
+  "name": "qs-stream",
+  "version": "1.0.0",
+  "description": "Stream parsing query-string files separated by new lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avinoamr/qs-stream.git"
+  },
+  "keywords": [
+    "qs",
+    "query-string",
+    "parsing",
+    "stream"
+  ],
+  "author": "Roi Avinoam <avinoamr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avinoamr/qs-stream/issues"
+  },
+  "homepage": "https://github.com/avinoamr/qs-stream",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "qs": "^5.1.0"
+  }
+}
