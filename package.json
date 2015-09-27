@@ -1,6 +1,6 @@
 {
   "name": "qs-stream",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Stream parsing query-string files separated by new lines",
   "main": "index.js",
   "scripts": {
